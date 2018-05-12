@@ -1,0 +1,43 @@
+_repo: The-Long-Roll_22066
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, Newell Convers
+    - Wyeth, N.C.
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 22066-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Mary
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '695'
+    url: http://www.gutenberg.org/2009/agents/695
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
+description: Donor is David L. Oslin, not Schaefer.
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- US Civil War
+gutenberg_issued: '2007-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Jackson, Stonewall, 1824-1863 -- Fiction'
+- !lcc 'PS'
+title: The Long Roll
+url: http://www.gutenberg.org/ebooks/22066
